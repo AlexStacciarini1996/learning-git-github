@@ -1,0 +1,1 @@
+To connect to github, we must create or clone a repository and push/pull files to/from a repository

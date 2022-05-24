@@ -1,0 +1,10 @@
+Main GIT commands
+git init - creates a repository in the folder
+git diff - shows file differences
+git add *file name* - add the file to the Index
+git commit -m 'Message' - commits the files
+git log - shows commit log
+git status - show the repository status
+git add . -add all files in the folder for the commit
+git reset HEAD *file name* - removes the file from the stage
+git checkout --*file name* - Undo all alterations in the file and restores it to the last commit's version

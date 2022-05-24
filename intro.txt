@@ -1,0 +1,6 @@
+I learned about git, a system for files version control, used to easily develop team projects
+I learned about git workflow
+    Workdir = the local project folder
+    Index = temporary file tree where files wait for the commit
+    HEAD = points out to the last commit
+I also learned about github, a website where I can share my projects using Git

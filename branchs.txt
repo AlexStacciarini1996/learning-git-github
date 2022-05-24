@@ -1,0 +1,5 @@
+I learned about branches, how to create new branches and switch between them, and also how merging works
+To create a new branch, you can use the command 'git branch *name*' OR 'git checoukt -b *name*' to create and switch to the new branch
+git branch will show me all the branches
+git branch -d *name* will delete the typed branch
+git merge *name* will merge the current branch with the one typed

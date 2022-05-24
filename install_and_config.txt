@@ -1,0 +1,2 @@
+To install git, we just need to download it from the git website
+During configuration, if you are using Windows, you can choose to have a Linux terminal emulator, since the git commands are made for Linux
